@@ -34,6 +34,7 @@ namespace Ejemplo_Laboratorio_05L
 
         private void txtNombre_TextChanged(object sender, EventArgs e)
         {
+
             lblInscripcion.Text = "Hola, " + txtNombre.Text+
                              " la materia inscrita es: " + cbMaterias.Text;
         }
