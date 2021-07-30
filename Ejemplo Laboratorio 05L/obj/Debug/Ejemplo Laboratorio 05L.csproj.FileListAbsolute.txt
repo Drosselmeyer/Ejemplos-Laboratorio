@@ -1,0 +1,9 @@
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplos Laboratorio\Ejemplo Laboratorio 05L\bin\Debug\Ejemplo Laboratorio 05L.exe.config
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplos Laboratorio\Ejemplo Laboratorio 05L\bin\Debug\Ejemplo Laboratorio 05L.exe
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplos Laboratorio\Ejemplo Laboratorio 05L\bin\Debug\Ejemplo Laboratorio 05L.pdb
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplos Laboratorio\Ejemplo Laboratorio 05L\obj\Debug\Ejemplo Laboratorio 05L.csprojResolveAssemblyReference.cache
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplos Laboratorio\Ejemplo Laboratorio 05L\obj\Debug\Ejemplo_Laboratorio_05L.Ejemplo.resources
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplos Laboratorio\Ejemplo Laboratorio 05L\obj\Debug\Ejemplo_Laboratorio_05L.Properties.Resources.resources
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplos Laboratorio\Ejemplo Laboratorio 05L\obj\Debug\Ejemplo Laboratorio 05L.csproj.GenerateResource.Cache
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplos Laboratorio\Ejemplo Laboratorio 05L\obj\Debug\Ejemplo Laboratorio 05L.exe
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplos Laboratorio\Ejemplo Laboratorio 05L\obj\Debug\Ejemplo Laboratorio 05L.pdb
